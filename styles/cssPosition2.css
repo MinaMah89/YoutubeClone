@@ -1,0 +1,54 @@
+div {
+  font-family: Arial;
+}
+body {
+  height: 3000px;
+}
+.first-sidebar {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(46, 44, 44);
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 50px;
+  padding-top: 15px;
+}
+img {
+  margin-bottom: 10px;
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+  margin-left: 5px;
+  border-radius: 17px;
+}
+.second-sidebar {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(110, 108, 108);
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 50px;
+  width: 120px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.info-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 10px;
+  padding-bottom: 6px;
+}
+.info-types {
+  margin-bottom: 6px;
+  color: rgb(190, 187, 187);
+}
+.info-text {
+  color: white;
+}
+.info-sign {
+  color: white;
+}

@@ -1,0 +1,98 @@
+p{
+  font-family: Arial;
+}
+.catpic {
+  width: 200px;
+  height: 200px;
+  object-position: center;
+  object-fit: cover;
+  border-radius: 100px;
+}
+.Search-bar{
+  border-radius: 8px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(200, 200, 200);
+  font-size: 16px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-top: 20px;
+}
+
+.Email{
+  font-size: 14px;
+  color: rgb(68, 67, 67);
+  margin-bottom: 4px;
+}
+.LinkedIn{
+  border-width: 1px;
+  border-style: solid;
+  width: 200px;
+  border-color: rgb(100, 100, 100);
+  border-radius: 3px;
+  margin-bottom: 8px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  font-size: 16px;
+}
+.Description{
+  font-size: 14px;
+  color: rgb(68, 67, 67);
+}
+.join-button{
+  background-color: rgb(20, 80, 209);
+  color: white;
+  font-size: 13px;
+  margin-bottom: 30px;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 200px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.twitter-pic{
+  margin-top: 20px;
+  width: 40px;
+  border-radius: 25px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+.twitter-question{
+  color: rgb(100, 100, 100);
+  vertical-align: middle;
+}
+input{
+  display: block;
+  margin-bottom: 7px;
+  width: 170px;
+}
+.continue-text{
+  width: 200px;
+  display: inline-block;
+  margin-right: 25px;
+  vertical-align: middle;
+}
+Button{
+  vertical-align: middle;
+}
+.google-logo{
+  width: 200px;
+  display: block;
+  text-align: center;
+  margin-left: 150px;
+  margin-bottom: 0px;
+}
+.Second-search{
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-size: 16px;
+  width: 500px;
+  border-radius: 30px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+}

@@ -1,0 +1,105 @@
+
+  .Tahoma-Font {
+    font-family: Tahoma;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .Arial-Font {
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 6px;
+  }
+  .Sale {
+    font-family: Arial;
+    font-style: italic;
+    color: red;
+    font-size: 14px;
+    margin-top: 0;
+  }
+  .Course {
+    font-family: Verdana;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 3px;
+  }
+  .Beginner {
+    font-family: Verdana;
+    color: gray;
+    font-size: 12px;
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+  .Description {
+    font-family: Verdana;
+    font-size: 16px;
+    margin-top: 0;
+    width: 320px;
+    line-height: 22px;
+    margin-bottom: 25px;
+  }
+  .Start {
+    background-color: green;
+    color: white;
+    font-family: Verdana;
+    font-size: 13px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 0;
+  }
+  .Shopping{
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  .Apple{
+    font-family: Arial;
+    font-size: 12px;
+    margin-top: 0;
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  .Learn{
+    font-family: Arial;
+    text-align: center;
+    font-size: 12px;
+    margin-top: 0;
+    color: blue;
+  
+  }
+  .New{
+    font-family: Arial;
+    text-align: center;
+    color: rgb(207, 11, 11);
+    font-size: 10px;
+    font-weight: bold;
+    margin-bottom: 7px;
+  }
+  .MacBook{
+    font-family: Arial;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 0;
+  }
+  .main{
+    font-family: arial;
+    font-size: 22px;
+  }
+  .USD{
+    color: gray;
+    font-family: Arial;
+    font-size: 13px;
+    margin-left: 5px;
+  }
+
+  
+  
+

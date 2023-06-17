@@ -1,0 +1,250 @@
+.Request-Button {
+  background-color: black;
+  color: white;
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 15px;
+  cursor: pointer;
+  margin-right: 20px;
+  transition: opacity 0.15s;
+  vertical-align: top;
+}
+
+.Request-Button:hover {
+  opacity: 0.7;
+}
+.Add-Button {
+  background-color: rgb(255, 216, 20);
+  border: none;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 35px;
+  padding-right: 35px;
+  border-radius: 23px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: background-color 0.15s;
+  vertical-align: top;
+}
+.Add-Button:hover {
+  background-color: rgb(253, 200, 25);
+}
+
+.Add-Button:active {
+  opacity: 0.7;
+}
+.Sign-Button {
+  background-color: rgb(46, 164, 79);
+  border: none;
+  color: white;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 17px;
+  padding-right: 17px;
+  border-radius: 6px;
+  font-weight: bold;
+  font-size: 17px;
+  cursor: pointer;
+  margin-left: 20px;
+  vertical-align: top;
+}
+
+.Sign-Button:hover {
+  box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.15);
+}
+.Start-Button {
+  background-color: rgb(121, 82, 179);
+  color: white;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: none;
+  font-size: 13px;
+  border-radius: 3px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.15s;
+  vertical-align: top;
+}
+.Start-Button:hover {
+  background-color: rgb(115, 70, 182);
+}
+.Download-Button {
+  background-color: white;
+  font-weight: bold;
+  font-size: 14px;
+  color: rgb(108, 117, 125);
+  border-color: rgb(108, 117, 125);
+  border-radius: 3px;
+  border-style: solid;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 17px;
+  padding-right: 17px;
+  border-width: 1px;
+  margin-left: 10px;
+  cursor: pointer;
+  transition: background-color 0.15s, color 0.15s;
+  vertical-align: top;
+}
+
+.Download-Button:hover {
+  background-color: rgb(108, 117, 125);
+  color: white;
+}
+.Back {
+  color: rgb(0, 113, 133);
+  transition: 0.15s;
+}
+.Back:hover {
+  color: rgb(236, 13, 13);
+}
+.Nike {
+  font-size: 30px;
+  font-weight: bold;
+}
+.stock {
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+  font-size: 20px;
+}
+.Buy-Button {
+  background-color: rgb(255, 164, 28);
+  border: none;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 35px;
+  padding-right: 35px;
+  border-radius: 23px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: 0.15s;
+}
+
+.Buy-Button:hover {
+  background-color: rgb(255, 149, 28);
+}
+
+.Buy-Button:active {
+  opacity: 0.7;
+}
+.Apply-Button {
+  background-color: rgb(10, 102, 194);
+  margin-left: 32px;
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 24px;
+  padding-right: 24px;
+  color: white;
+  font-weight: bold;
+  font-size: 14px;
+  border-radius: 23px;
+  cursor: pointer;
+  transition: backgroung-color 0.15s;
+  vertical-align: top;
+}
+.Apply-Button:hover {
+  background-color: rgb(8, 84, 160);
+}
+.Save-Button {
+  color: rgb(10, 102, 194);
+  font-weight: bold;
+  font-size: 17px;
+  background-color: white;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 24px;
+  padding-right: 24px;
+  border-color: rgb(10, 102, 194);
+  border-style: solid;
+  border-radius: 21px;
+  border-width: 1px;
+  cursor: pointer;
+  margin-left: 10px;
+  transition: 0.15s;
+  vertical-align: top;
+}
+.Save-Button:hover {
+  background-color: rgb(223, 229, 241);
+  border-width: 2px;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  padding-left: 23px;
+  padding-right: 23px;
+}
+.Back-Button {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-right: 8px;
+  font-size: 16px;
+}
+.Next-Button {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-left: 8px;
+  font-size: 16px;
+}
+.Number {
+  color: rgba(77, 0, 128, 0.993);
+  margin-left: 4px;
+  margin-right: 4px;
+  font-size: 18px;
+}
+.Stretch-Button {
+  background-color: rgb(0, 112, 0);
+  color: white;
+  border: none;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-right: 14px;
+  padding-left: 14px;
+  cursor: pointer;
+  transition: padding-top 0.5s, padding-bottom 0.5s, padding-left 0.5s,
+    padding-right 0.5s;
+}
+.Stretch-Button:hover {
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 36px;
+  padding-right: 36px;
+}
+.Shadow-Button {
+  background-color: rgb(0, 112, 0);
+  color: white;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-right: 14px;
+  padding-left: 14px;
+  border: none;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
+.Shadow-Button:active {
+  margin-top: 2px;
+  margin-left: 2px;
+  box-shadow: none;
+}
+.Number-button {
+  background-color: rgb(0, 112, 0);
+  color: white;
+  border: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 18px;
+  padding-right: 18px;
+  margin-right: 10px;
+  margin-left: 10px;
+  transition: padding-left 1s, padding-right 1s, margin-right 1s,
+    margin-left 1s;
+}
+.Number-button:hover {
+  padding-left: 22px;
+  padding-right: 22px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
